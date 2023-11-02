@@ -4,3 +4,4 @@ Repo for creating a document QA bot using LLAMA 2 LangChain, PineCode and indexi
 - [x] Use Pinecone <br>
 - [ ]  Use Vertex AI PaLM API <br>
 - [ ]  Do more Text Cleaning  <br>
+- [x] Knowledge base using embedding
